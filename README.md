@@ -7,9 +7,12 @@ I'm at the *very beginning* of my frontend development journey.
 ⏭ Planning to learn next: *JavaScript*
 
 ## 🎯 Current Goal
-- Understand HTML structure
-- Learn basic CSS layout and styling
-- Practice by building small examples
+# 🎯 Current Goals
+- Build a strong foundation in HTML and semantic structure
+- Learn CSS fundamentals and modern layout techniques (Flexbox)
+- Create simple and clean static web pages
+- Begin learning JavaScript fundamentals
+- Improve problem-solving skills through small practice projects
 
 ## 📂 About this profile
 This GitHub profile is used to:
