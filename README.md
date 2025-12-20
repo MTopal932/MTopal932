@@ -6,7 +6,7 @@ I'm at the *very beginning* of my frontend development journey.
 📖 Currently learning: *HTML & CSS*  
 ⏭ Planning to learn next: *JavaScript*
 
-## 🎯 Current Goal
+
 # 🎯 Current Goals
 - Build a strong foundation in HTML and semantic structure
 - Learn CSS fundamentals and modern layout techniques (Flexbox)
