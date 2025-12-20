@@ -1,24 +1,30 @@
-# 👋 Hi, I'm Muhammet TOPAL
 
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Muhammet TOPAL</h1>
 I'm at the *very beginning* of my frontend development journey.
 
-🗓 Started learning on *19.12.2025*  
-📖 Currently learning: *HTML & CSS*  
-⏭ Planning to learn next: *JavaScript*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtopal932&label=Profile%20views&color=0e75b6&style=flat" alt="mtopal932" /> </p>
+
+- Started learning on *19.12.2025*
+- - 🌱 I’m currently learning **HTML,CSS,JAVASCRİPT**
+
+- 📫 How to reach me **Mtopal9332@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mhmt932" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhmt932" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtopal932&show_icons=true&locale=en&layout=compact" alt="mtopal932" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtopal932&show_icons=true&locale=en" alt="mtopal932" /></p>
 
 
-# 🎯 Current Goals
-- Build a strong foundation in HTML and semantic structure
-- Learn CSS fundamentals and modern layout techniques (Flexbox)
-- Create simple and clean static web pages
-- Begin learning JavaScript fundamentals
-- Improve problem-solving skills through small practice projects
-
-## 📂 About this profile
-This GitHub profile is used to:
-- Share my learning process
-- Upload beginner-level practice files
-- Track my progress over time
-
-I'm learning step by step and I try to improve myself every day.
 
