@@ -9,7 +9,6 @@ I'm at the *very beginning* of my frontend development journey.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtopal932&label=Profile%20views&color=0e75b6&style=flat" alt="mtopal932" /> </p>
 
-- Started learning on *19.12.2025*
 - - 🌱 I’m currently learning **HTML,CSS,JAVASCRİPT**
 
 - 📫 How to reach me **Mtopal9332@gmail.com**
